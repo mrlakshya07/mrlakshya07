@@ -38,8 +38,7 @@ I enjoy coding and experimenting with new tools and frameworks to create somethi
 
 ---
 
-## 💭 Favorite Quote
-> “The more I learn, the more I realize how much I don’t know.” — *Albert Einstein*
+
 
 ---
 
