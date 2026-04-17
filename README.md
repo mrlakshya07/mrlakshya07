@@ -42,7 +42,7 @@ Hey! I’m <b>Lakshya Rathi</b>, a 💻 code enthusiast who thrives on creating 
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 - ✅ Complete **DSA**  
 - 🚀 Learn **Generative AI**  
 - 💪 Master **C Programming**  
