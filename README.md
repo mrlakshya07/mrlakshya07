@@ -99,12 +99,17 @@ Hey! I’m <b>Lakshya Rathi</b>, a 💻 code enthusiast who thrives on creating 
 ## ⚡️ Connect with Me
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/lakshya-rathi-39588837b/" target="_blank">
+  <a href="https://www.linkedin.com/in/lakshyarathi1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <!-- X / Twitter -->
   <a href="https://x.com/mrlakshya_07" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/mrlakshya_07" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
