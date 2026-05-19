@@ -1,105 +1,164 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Lakshya%20Rathi&fontSize=55&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Code.%20Create.%20Innovate.&descAlignY=60&descAlign=50"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Lakshya%20Rathi&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Code.%20Create.%20Innovate.&descAlignY=60&descAlign=50"
     width="100%"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=Future+AI+Engineer;Open+Source+Enthusiast;Building+Cool+Projects+🚀;Learning+Systems+%26+Algorithms"
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+%26+Systems+Enthusiast;Open+Source+Enthusiast;Building+Cool+Projects;Learning+Systems+and+Algorithms"
     alt="Typing SVG"
   />
 </p>
 
-## 👨‍💻 About Me
-Hey! I’m <b>Lakshya Rathi</b>, a 💻 code enthusiast who thrives on creating and experimenting. Exploring <b>programming, algorithms, web frameworks, and databases</b> keeps me curious ⚡ and constantly pushing the boundaries of what’s possible 🚀.
-
 ---
 
-## 🌟 Current Status
-- 💡 I know: **Python**, **C**, **Java**, **Django**, **Flask**, and **JavaScript**  
-- 🗄️ Databases: **MySQL**, **PostgreSQL**  
-- 🧰 Tools: **Git**, **VS Code**  
-- 📚 Frameworks/Libraries: **Pandas**, **Matplotlib**
+<!-- ======================= ABOUT ME ======================= -->
 
----
+<h1 align="center">ABOUT ME</h1>
 
-## 👀 I'm Interested In
-- 🤝 Collaborations  
-- 📊 Any Opportunities  
-- 🎯 Open Source Contributions  
-
----
-
-## 🎯 2026 Goals
-- ✅ Complete **DSA**  
-- 🚀 Learn **Generative AI**  
-- 💪 Master **C Programming**  
-- 🌍 Contribute to **Open Source Projects**
-
----
-
-
-
----
-
-## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrlakshya07&theme=react-dark" alt="Lakshya's Contribution Graph" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Code+Enthusiast;Building+Cool+Projects;Exploring+AI+and+Systems;Always+Learning+Something+New"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black"/>
+  
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black"/>
 </p>
 
 ---
 
-## 🚀 Languages and Tools
+<!-- ======================= CURRENT STATUS ======================= -->
+
+<h1 align="center">CURRENT STATUS</h1>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Currently+Learning+and+Building;Exploring+AI+and+Core+CS;Working+on+Projects+and+DSA"
+    alt="Typing SVG"
+  />
+</p>
+
 <div align="center">
 
-### 💻 Programming Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-</p>
-
-### 🧩 Frameworks & Libraries
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-</p>
-
-### 🛠️ Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-</p>
+| NOW WORKING ON |
+| :--- |
+| Exploring Backend Development |
+| Building Real Projects |
+| Improving Problem Solving |
 
 </div>
 
+<br>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrlakshya07&theme=github_dark"
+    width="95%"
+  />
+</p>
+
 ---
 
-## ⚡️ Connect with Me
+<!-- ======================= INTERESTS ======================= -->
+
+<h1 align="center">INTERESTS</h1>
+
+```diff
++ Open Source Collaborations
++ Tech Opportunities
++ AI + Systems Programming
++ Building Useful Projects
++ Backend Development
++ Problem Solving & DSA
+```
+
+<!-- ======================= 2026 MISSION ======================= -->
+
+<h1 align="center">2026 MISSION</h1>
+
 <p align="center">
-  <!-- LinkedIn -->
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Mastering+DSA;Exploring+Generative+AI;Learning+Low-Level+Programming;Contributing+to+Open+Source;Building+Projects+That+Matter"
+    alt="Goals Animation"
+  />
+</p>
+
+<p align="center">
+  Build. Learn. Experiment. Repeat.
+</p>
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:1F6FEB&height=2&section=footer" 
+    width="100%" 
+  />
+</p>
+
+---
+
+<!-- ======================= GITHUB ACTIVITY ======================= -->
+
+<h1 align="center">GITHUB ACTIVITY</h1>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mrlakshya07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=00E5FF&point=FFFFFF&area=true"
+    width="95%" 
+  />
+</p>
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
+
+<h1 align="center">TECH STACK</h1>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,javascript,django,flask,mysql,postgresql,git,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=chartdotjs&logoColor=white" />
+</p>
+
+---
+
+<!-- ======================= CONNECT ======================= -->
+
+<h1 align="center">CONNECT WITH ME</h1>
+
+<p align="center">
+
   <a href="https://www.linkedin.com/in/lakshyarathi1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
   </a>
 
-  <!-- X / Twitter -->
   <a href="https://x.com/mrlakshya_07" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
+    <img 
+      src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
+    />
   </a>
 
-  <!-- Instagram -->
   <a href="https://instagram.com/mrlakshya_07" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img 
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    />
   </a>
+
 </p>
