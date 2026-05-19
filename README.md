@@ -1,15 +1,5 @@
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=blur&color=0:0D1117,50:111827,100:1F2937&height=180&section=header&text=lakshya.dev&fontSize=46&fontColor=F8FAFC&animation=fadeIn&fontAlignY=42&font=Michroma&stroke=38BDF8&strokeWidth=0.7"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+%26+Systems+Enthusiast;Building+Cool+Projects;Crafting+The+Future"
-    alt="Subtitle"
-  />
+  <img src="github banner.png" width="100%" />
 </p>
 
 <p align="center">
