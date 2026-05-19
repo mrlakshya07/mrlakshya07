@@ -1,26 +1,16 @@
-<!-- GitHub Contribution Snake -->
-
 <p align="center">
-  <picture>
-    <!-- Dark mode -->
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://img.shields.io/badge/-mrlakshya07-32cd32?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000">
-    <!-- Light mode -->
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://img.shields.io/badge/-mrlakshya07-32cd32?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff">
-    <img src="https://img.shields.io/badge/-mrlakshya07-32cd32?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000" alt="mrlakshya07">
-  </picture>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Lakshya%20Rathi&fontSize=55&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Code.%20Create.%20Innovate.&descAlignY=60&descAlign=50"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?color_snake=00bfff&color_grid=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?color_snake=00bfff&color_grid=ffffff">
-    <img alt="mrlakshya07 - Neon Grid Coding Fun" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?color_snake=00bfff&color_grid=ffffff">
-  </picture>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=Future+AI+Engineer;Open+Source+Enthusiast;Building+Cool+Projects+🚀;Learning+Systems+%26+Algorithms"
+    alt="Typing SVG"
+  />
 </p>
-
----
 
 ## 👨‍💻 About Me
 Hey! I’m <b>Lakshya Rathi</b>, a 💻 code enthusiast who thrives on creating and experimenting. Exploring <b>programming, algorithms, web frameworks, and databases</b> keeps me curious ⚡ and constantly pushing the boundaries of what’s possible 🚀.
