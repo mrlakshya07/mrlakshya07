@@ -1,15 +1,11 @@
-<p align="center">
-  <img src="github banner.png" width="100%" />
-</p> 
+<!-- ======================= HERO SECTION ======================= -->
 
-<p align="center">
+<h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+%26+Systems+Enthusiast;Open+Source+Enthusiast;Building+Cool+Projects;Learning+Systems+and+Algorithms"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.herokuapp.com?font=Michroma&size=38&duration=4000&pause=100000&color=A855F7&center=true&vCenter=true&width=700&height=40&lines=CODE+•+CREATE+•+EVOLVE"
+    alt="CODE CREATE EVOLVE"
   />
-</p>
-
----
+</h1>
 
 <!-- ======================= ABOUT ME ======================= -->
 
