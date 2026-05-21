@@ -167,16 +167,16 @@ SELECT infrastructure_id, tech_stack, runtime_version, operational_status FROM d
   <code><b>[ ENGINE TELEMETRY OVERVIEW // CORE METRICS ]</b></code>
   <br /><br />
 
-  <a href="https://github.com/mrlakshya07">
-    <img src="https://img.shields.io/badge/QUANTUM_REPOS-07%20//%20ACTIVE-00E5FF?style=for-the-badge&logo=git&logoColor=040810&labelColor=040810" alt="Total Repositories"/>
+  <a href="https://github.com/mrlakshya07?tab=repositories">
+    <img src="https://img.shields.io/badge/QUANTUM_REPOS-07%20//%20ACTIVE-00E5FF?style=for-the-badge&logo=git&logoColor=040810&labelColor=040810" alt="Route to Repository Index"/>
   </a>
   &nbsp;
-  <a href="https://github.com/mrlakshya07">
-    <img src="https://img.shields.io/badge/SYSTEM_UPTIME-365_DAYS%20//%20100%25-8B5CF6?style=for-the-badge&logo=linux&logoColor=C5D8E8&labelColor=040810" alt="System Uptime"/>
+  <a href="https://github.com/mrlakshya07?tab=overview&from=2026-01-01">
+    <img src="https://img.shields.io/badge/SYSTEM_UPTIME-365_DAYS%20//%20100%25-8B5CF6?style=for-the-badge&logo=linux&logoColor=C5D8E8&labelColor=040810" alt="Route to Contribution Timeline"/>
   </a>
   &nbsp;
-  <a href="https://github.com/mrlakshya07">
-    <img src="https://img.shields.io/badge/TOTAL_COMMITS-POLYMORPHIC-F43F5E?style=for-the-badge&logo=dependencychecker&logoColor=C5D8E8&labelColor=040810" alt="Commit Volatility"/>
+  <a href="https://github.com/mrlakshya07?tab=stars">
+    <img src="https://img.shields.io/badge/TOTAL_COMMITS-POLYMORPHIC-F43F5E?style=for-the-badge&logo=dependencychecker&logoColor=C5D8E8&labelColor=040810" alt="Route to Architecture Stars"/>
   </a>
 
   <br /><br />
