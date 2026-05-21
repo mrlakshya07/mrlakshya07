@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=34&duration=2000&pause=999&color=00E5FF&center=true&vCenter=true&width=850&height=110&repeat=false&lines=%E2%96%B6_INITIALIZING_LAKSHYA%2FOS...;%5B_OK_%5D_LOADING_CORE_ALLOCATORS...;%5B_OK_%5D_NEURAL_INFRASTRUCTURE_CONNECTED;%3E%3E_WELCOME_TO_THE_MAIN_DASHBOARD" alt="LAKSHYA/OS BOOT LOGO" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=34&duration=2000&pause=500&color=00E5FF&center=true&vCenter=true&width=850&height=110&lines=%E2%96%B6_INITIALIZING_LAKSHYA%2FOS...;%5B_OK_%5D_LOADING_CORE_ALLOCATORS...;%5B_OK_%5D_NEURAL_INFRASTRUCTURE_CONNECTED;%3E%3E_WELCOME_TO_THE_MAIN_DASHBOARD" alt="LAKSHYA/OS BOOT LOGO" />
   
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:8B5CF6,100:F43F5E&height=3&section=footer" width="90%" />
   
@@ -9,9 +9,8 @@
 
 <br />
 
-<div align="right">
+<div align="center">
   <code>[ ACADEMIC NODE: B.TECH CSE ]</code> &nbsp;
-  <code>[ LEVEL: YEAR_01 ]</code> &nbsp;
   <code>[ STATE: LEARNING ]</code>
 </div>
 
@@ -46,7 +45,7 @@
 # INTELLECTUAL BANDWIDTH ALLOCATION
 FOUNDATIONAL_LOGIC : [■■■■■■■■■■■■■■■■■■] 100% [ONLINE]
 CORE_PROGRAMMING   : [■■■■■■■■■■■■■■░░░░]  80% [STABLE]
-LAB_COMPILATION    : [■■■■■■■888888░░░░░]  70% [OPTIMAL]
+LAB_COMPILATION    : [■■■■■■■■■■■■░░░░░░]  70% [OPTIMAL]
 AI_EXPLORATION     : [■■■■■■■■░░░░░░░░░░]  45% [ACTIVE]
 DSA_ROUTING        : [■■■■■░░░░░░░░░░░░░]  30% [BOOTING]
 ```
