@@ -207,7 +207,7 @@ SELECT infrastructure_id, processing_routine, operational_status FROM deployment
 <div align="center">
 
 <a href="https://www.linkedin.com/in/lakshyarathi1/" target="_blank">
-<img src="https://cdn.simpleicons.org/linkedin/00E5FF" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="55" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
