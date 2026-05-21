@@ -1,24 +1,18 @@
-<!-- 
-  =============================================================================
-  LAKSHYA/OS — DEPLOYED ARCHITECTURE INFRASTRUCTURE
-  CORE MATRIX: INTEGRATED // KERNEL: v2026.05 // SYNC STATUS: LOCKED
-  =============================================================================
--->
-
 <div align="center">
-  <!-- Main Cinematic System Title -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=38&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=850&height=70&lines=LAKSHYA%2FOS+%3A%3A+MAIN+DASHBOARD;NEURAL+COMMAND+INFRASTRUCTURE+ONLINE;SYSTEM+METRICS+INITIALIZED" alt="LAKSHYA/OS CORE UI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=34&duration=2000&pause=999&color=00E5FF&center=true&vCenter=true&width=850&height=110&repeat=false&lines=%E2%96%B6_INITIALIZING_LAKSHYA%2FOS...;%5B_OK_%5D_LOADING_CORE_ALLOCATORS...;%5B_OK_%5D_NEURAL_INFRASTRUCTURE_CONNECTED;%3E%3E_WELCOME_TO_THE_MAIN_DASHBOARD" alt="LAKSHYA/OS BOOT LOGO" />
   
-  <!-- Subtle System Subtitle Hierarchy -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=14&duration=99999&pause=999999&color=8B5CF6&center=true&vCenter=true&width=650&height=25&lines=BACKEND+ARCHITECTURE+●+NEURAL+INTELLIGENCE+ENGINE+●+REAL-TIME+MONITORING" alt="System Specs" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:8B5CF6,100:F43F5E&height=3&section=footer" width="90%" />
+  
+  <br /><br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=14&duration=4000&pause=999999&color=8B5CF6&center=true&vCenter=true&width=650&height=20&lines=CODE+•+CREATE+•+EVOLVE+●+B.TECH+UNDERGRADUATE+●+CORE+PROGRAMMING" alt="System Specs" />
 </div>
 
 <br />
 
 <div align="right">
-  <code>[ ARCHITECTURE: DISTRIBUTED ]</code> &nbsp;
-  <code>[ SECURITY: SYNC_LOCKED ]</code> &nbsp;
-  <code>[ NODE STATUS: ACTIVE ]</code>
+  <code>[ ACADEMIC NODE: B.TECH CSE ]</code> &nbsp;
+  <code>[ LEVEL: YEAR_01 ]</code> &nbsp;
+  <code>[ STATE: LEARNING ]</code>
 </div>
 
 ---
@@ -33,11 +27,14 @@
 {
   "SYSTEM_METRICS": {
     "host_identity": "lakshya_rathi",
-    "assigned_role": "Backend & AI Engineer",
-    "deployment_zone": "India [IST]",
-    "core_kernel": "v2026.05-stable",
+    "classification": "B.Tech Undergrad (1st Year)",
     "operation_mode": "Autonomous Evolution",
-    "current_process": "Distributed Systems Integration"
+    "profile_signature": [
+      "Code Enthusiast",
+      "Building Cool Projects",
+      "Exploring AI and Systems",
+      "Always Learning Something New"
+    ]
   }
 }
 ```
@@ -46,12 +43,12 @@
 <td width="50%" valign="top">
 
 ```yaml
-# HARDWARE ALLOCATION & THREAD POOLS
-NEURAL_COMPUTE_GRID : [■■■■■■■■■■■■■■■■■■] 100% [ONLINE]
-DATA_PIPELINE_FLOW : [■■■■■■■■■■■■■■░░░░]  80% [STABLE]
-ASYNC_I_O_THROTTLE  : [■■■■■■■■■■■■░░░░░░]  70% [OPTIMAL]
-LOW_LEVEL_COMPILER  : [■■■■■■■■░░░░░░░░░░]  45% [ACTIVE]
-ALGORITHMIC_ROUTING : [■■■■■░░░░░░░░░░░░░]  32% [WARMING]
+# INTELLECTUAL BANDWIDTH ALLOCATION
+FOUNDATIONAL_LOGIC : [■■■■■■■■■■■■■■■■■■] 100% [ONLINE]
+CORE_PROGRAMMING   : [■■■■■■■■■■■■■■░░░░]  80% [STABLE]
+LAB_COMPILATION    : [■■■■■■■888888░░░░░]  70% [OPTIMAL]
+AI_EXPLORATION     : [■■■■■■■■░░░░░░░░░░]  45% [ACTIVE]
+DSA_ROUTING        : [■■■■■░░░░░░░░░░░░░]  30% [BOOTING]
 ```
 
 </td>
@@ -60,9 +57,9 @@ ALGORITHMIC_ROUTING : [■■■■■░░░░░░░░░░░░░]  
 
 ---
 
-### 🧠 NEURAL CORE // ACTIVE ENGINE MODULES
+### 🧠 NEURAL CORE // INSTALLED LANGUAGE MODULES
 
-> Installed architecture and runtime layers mapped by technical proficiency and systemic operational stability.
+> Verified technology frameworks and foundational modules mapped by operational stability.
 
 <table>
   <thead>
@@ -76,51 +73,39 @@ ALGORITHMIC_ROUTING : [■■■■■░░░░░░░░░░░░░]  
   <tbody>
     <tr>
       <td><code>python.runtime.core</code></td>
-      <td>Language Environment</td>
+      <td>Primary Scripts & Logic</td>
       <td><a href="https://github.com/mrlakshya07"><img src="https://img.shields.io/badge/-%5B_CORE_%5D-00E5FF?style=flat-square&labelColor=040810" alt="Core State"/></a></td>
-      <td align="right"><code>99.9%</code></td>
+      <td align="right"><code>99%</code></td>
     </tr>
     <tr>
       <td><code>git.version.control</code></td>
-      <td>Distributed VCS</td>
+      <td>Distributed VCS Engine</td>
       <td><a href="https://github.com/mrlakshya07"><img src="https://img.shields.io/badge/-%5B_CORE_%5D-00E5FF?style=flat-square&labelColor=040810" alt="Core State"/></a></td>
-      <td align="right"><code>99.8%</code></td>
+      <td align="right"><code>95%</code></td>
     </tr>
     <tr>
-      <td><code>django.mvc.engine</code></td>
-      <td>Web Architecture Framework</td>
+      <td><code>c.programming.lab</code></td>
+      <td>Memory & Problem Solving</td>
       <td><a href="https://github.com/mrlakshya07"><img src="https://img.shields.io/badge/-%5B_STABLE_%5D-8B5CF6?style=flat-square&labelColor=040810" alt="Stable State"/></a></td>
-      <td align="right"><code>92.4%</code></td>
-    </tr>
-    <tr>
-      <td><code>postgresql.relational</code></td>
-      <td>Data Storage Engine</td>
-      <td><a href="https://github.com/mrlakshya07"><img src="https://img.shields.io/badge/-%5B_STABLE_%5D-8B5CF6?style=flat-square&labelColor=040810" alt="Stable State"/></a></td>
-      <td align="right"><code>91.0%</code></td>
-    </tr>
-    <tr>
-      <td><code>flask.micro.service</code></td>
-      <td>API Routing Layer</td>
-      <td><a href="https://github.com/mrlakshya07"><img src="https://img.shields.io/badge/-%5B_STABLE_%5D-8B5CF6?style=flat-square&labelColor=040810" alt="Stable State"/></a></td>
-      <td align="right"><code>89.5%</code></td>
+      <td align="right"><code>80%</code></td>
     </tr>
     <tr>
       <td><code>java.virtual.machine</code></td>
-      <td>Enterprise Runtime Environment</td>
+      <td>Object Oriented Syntax</td>
       <td><a href="https://github.com/mrlakshya07"><img src="https://img.shields.io/badge/-%5B_STABLE_%5D-8B5CF6?style=flat-square&labelColor=040810" alt="Stable State"/></a></td>
-      <td align="right"><code>84.1%</code></td>
+      <td align="right"><code>75%</code></td>
     </tr>
     <tr>
-      <td><code>generative.ai.llm</code></td>
-      <td>Neural Systems & Agents</td>
-      <td><a href="https://github.com/mrlakshya07"><img src="https://img.shields.io/badge/-%5B_ACTIVE_%5D-F43F5E?style=flat-square&labelColor=040810" alt="Active State"/></a></td>
-      <td align="right"><code>65.2%</code></td>
+      <td><code>django.mvc.engine</code></td>
+      <td>Backend Web Framework</td>
+      <td><a href="https://github.com/mrlakshya07"><img src="https://img.shields.io/badge/-%5B_STABLE_%5D-8B5CF6?style=flat-square&labelColor=040810" alt="Stable State"/></a></td>
+      <td align="right"><code>70%</code></td>
     </tr>
     <tr>
-      <td><code>c.low.level.systems</code></td>
-      <td>Memory & Kernel Interaction</td>
-      <td><a href="https://github.com/mrlakshya07"><img src="https://img.shields.io/badge/-%5B_ACTIVE_%5D-F43F5E?style=flat-square&labelColor=040810" alt="Active State"/></a></td>
-      <td align="right"><code>40.0%</code></td>
+      <td><code>flask.micro.service</code></td>
+      <td>API Micro Routines</td>
+      <td><a href="https://github.com/mrlakshya07"><img src="https://img.shields.io/badge/-%5B_STABLE_%5D-8B5CF6?style=flat-square&labelColor=040810" alt="Stable State"/></a></td>
+      <td align="right"><code>65%</code></td>
     </tr>
   </tbody>
 </table>
@@ -128,35 +113,61 @@ ALGORITHMIC_ROUTING : [■■■■■░░░░░░░░░░░░░]  
 <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,postgresql,mysql,java,c,git,linux,vscode&theme=dark" alt="System Module Visualizations" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,javascript,django,flask,mysql,postgresql,git,vscode&theme=dark" alt="System Module Visualizations" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=chartdotjs&logoColor=white" />
 </div>
 
 ---
 
-### 🌐 DEPLOYMENT MATRIX // INFRASTRUCTURE REGISTRY
+### 🌐 DEPLOYMENT MATRIX // CURRENT STATUS
 
 ```sql
-SELECT infrastructure_id, tech_stack, runtime_version, operational_status FROM deployment_matrix;
+SELECT infrastructure_id, processing_routine, operational_status FROM deployment_matrix;
 ```
 
-| INFRASTRUCTURE ID | TECH STACK & ARCHITECTURE | RUNTIME VER | OPERATIONAL STATUS |
-|:---|:---|:---|:---|
-| `NET-ORCHESTRATOR` | Distributed Backend API Gateway · Django · PG | `v2.4.0-prod` | <img src="https://img.shields.io/badge/%E2%97%8F_OPERATIONAL-00E5FF?style=flat-square&labelColor=040810" alt="Operational"/> |
-| `NEURAL-INTEGRATOR` | GenAI Core Agent · LLM Orchestration Framework | `v0.8.1-beta` | <img src="https://img.shields.io/badge/%E2%AC_EVALUATION-8B5CF6?style=flat-square&labelColor=040810" alt="Evaluation"/> |
-| `SYS-COMPILER` | Low-Level Memory Allocator & POSIX System Engine | `v0.0.2-alpha` | <img src="https://img.shields.io/badge/%E2%96%B6_COMPILING-F43F5E?style=flat-square&labelColor=040810" alt="Compiling"/> |
-| `HUD-INTERFACE` | Cinematic Dashboard Interface `[THIS PROFILE]` | `v2026.05` | <img src="https://img.shields.io/badge/%E2%97%8F_LIVE-00E5FF?style=flat-square&labelColor=040810" alt="Live"/> |
+| INFRASTRUCTURE ID | CONCURRENT SPRINT FOCUS | OPERATIONAL STATUS |
+|:---|:---|:---|
+| `BACKEND-DEV` | Exploring Architectures & System Integration | <img src="https://img.shields.io/badge/%E2%97%8F_EXPLORING-00E5FF?style=flat-square&labelColor=040810" alt="Exploring"/> |
+| `PROJECT-LAB` | Building Functional Real-World Codebases | <img src="https://img.shields.io/badge/%E2%AC_BUILDING-8B5CF6?style=flat-square&labelColor=040810" alt="Building"/> |
+| `ALGO-ROUTER` | Improving Core Problem Solving & DSA Metrics | <img src="https://img.shields.io/badge/%E2%96%B6_ACTIVE-F43F5E?style=flat-square&labelColor=040810" alt="Active"/> |
 
 ---
 
-### 🎯 MISSION CONTROL // STRATEGIC OBJECTIVES
+### 🎯 MISSION CONTROL // 2026 SPRINT STRATEGY
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&height=35&lines=Mastering+DSA;Exploring+Generative+AI;Learning+Low-Level+Programming;Contributing+to+Open+Source;Building+Projects+That+Matter"
+    alt="Goals Animation"
+  />
+</p>
 
 ```diff
-# RADAR LOCK ON UPCOMING SPRINT RUNTIMES
-+ [OBJ-01] BACKEND_DEPTH     --> Scaling distributed databases, microservice meshes, and high-throughput APIs.
-+ [OBJ-02] COGNITIVE_SYSTEMS --> Optimizing LLM fine-tuning loops, local vector indexes, and agentic workflows.
-+ [OBJ-03] LOW_LEVEL_CORE    --> Demystifying operating system structures, socket programming, and memory maps in C.
-! [OBJ-04] COMMUNITY_OSS     --> Shipping high-impact patch sets and code reviews to open-source software nodes.
+# SYSTEM INTERESTS & TARGET GATEWAYS
++ Open Source Collaborations
++ Tech Opportunities
++ AI + Systems Programming
++ Building Useful Projects
++ Backend Development
++ Problem Solving & DSA
 ```
+
+<p align="center"><i>Build. Learn. Experiment. Repeat.</i></p>
+
+---
+
+### 📊 GITHUB ACTIVITY // QUANTUM TIME MATRIX
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mrlakshya07&theme=tokyo-night&hide_border=true&bg_color=040810&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true"
+    width="100%" 
+    alt="System Metrics Realtime Pulse Graph"
+  />
+</p>
 
 ---
 
@@ -164,19 +175,11 @@ SELECT infrastructure_id, tech_stack, runtime_version, operational_status FROM d
 
 <div align="center">
   
-  <code><b>[ ENGINE TELEMETRY OVERVIEW // CORE METRICS ]</b></code>
+  <code><b>[ CODE DISCOVERY METRICS ]</b></code>
   <br /><br />
 
   <a href="https://github.com/mrlakshya07?tab=repositories">
     <img src="https://img.shields.io/badge/QUANTUM_REPOS-07%20//%20ACTIVE-00E5FF?style=for-the-badge&logo=git&logoColor=040810&labelColor=040810" alt="Route to Repository Index"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/mrlakshya07?tab=overview&from=2026-01-01">
-    <img src="https://img.shields.io/badge/SYSTEM_UPTIME-365_DAYS%20//%20100%25-8B5CF6?style=for-the-badge&logo=linux&logoColor=C5D8E8&labelColor=040810" alt="Route to Contribution Timeline"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/mrlakshya07?tab=stars">
-    <img src="https://img.shields.io/badge/TOTAL_COMMITS-POLYMORPHIC-F43F5E?style=for-the-badge&logo=dependencychecker&logoColor=C5D8E8&labelColor=040810" alt="Route to Architecture Stars"/>
   </a>
 
   <br /><br />
@@ -187,39 +190,31 @@ SELECT infrastructure_id, tech_stack, runtime_version, operational_status FROM d
         <pre>
 <span style="color:#00E5FF"><b>[⚡] REAL-TIME ENGAGEMENT RADAR:</b></span>
 ┌────────────────────────────────────────────────────────┐
-│ <span style="color:#00E5FF">■ Python Layer</span>  :::::::: [■■■■■■■■■■■■■■■■■■]  <b>99.9%</b>  │
-│ <span style="color:#8B5CF6">■ Web backends</span>  :::::::: [■■■■■■■■■■■■■■░░░░]  <b>88.5%</b>  │
-│ <span style="color:#F43F5E">■ Neural AI</span>     :::::::: [■■■■■■■■░░░░░░░░░░]  <b>45.2%</b>  │
+│ <span style="color:#00E5FF">■ Core Languages</span> :::::::: [■■■■■■■■■■■■■■■■■■]  <b>95.0%</b>  │
+│ <span style="color:#8B5CF6">■ Web Frameworks</span> :::::::: [■■■■■■■■■■■■░░░░░░]  <b>72.1%</b>  │
+│ <span style="color:#F43F5E">■ Systems / AI</span>   :::::::: [■■■■■■░░░░░░░░░░░░]  <b>35.5%</b>  │
 └────────────────────────────────────────────────────────┘
-<span style="color:#C5D8E8">> FEED STATUS : INTEGRATED NATIVELY WITH CORE CONTEXT ROUTER</span></pre>
+<span style="color:#C5D8E8">> STATUS : LOCAL RUNTIMES OPERATING UNDER COMPLETELY STABLE PARAMETERS</span></pre>
       </td>
     </tr>
   </table>
 
 </div>
 
-<br />
-
-```yaml
-# NEURAL ACTIVITY MONITOR
-> SYNCING CONTEXT WITH REAL-TIME ENGAGEMENT RADAR...
-> CONNECTED TO NATIVE GITHUB CONTRIBUTION LAYER SUCCESSFUL.
-> STATUS: PROCESSING MATRIX REFRESH CONCURRENTLY.
-```
 ---
 
 ### 📡 NETWORK ENDPOINTS // APIS & SESSIONS
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lakshyarathi1/">
+  <a href="https://www.linkedin.com/in/lakshyarathi1/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-040810?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=040810&color=040810" alt="Establish LinkedIn Session" />
   </a>
   &ensp;
-  <a href="https://x.com/mrlakshya_07">
+  <a href="https://x.com/mrlakshya_07" target="_blank">
     <img src="https://img.shields.io/badge/X_TWITTER-040810?style=for-the-badge&logo=x&logoColor=C5D8E8&labelColor=040810&color=040810" alt="Open X Channel" />
   </a>
   &ensp;
-  <a href="https://instagram.com/mrlakshya_07">
+  <a href="https://instagram.com/mrlakshya_07" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-040810?style=for-the-badge&logo=instagram&logoColor=F43F5E&labelColor=040810&color=040810" alt="Connect Media Subroutine" />
   </a>
 </div>
@@ -232,10 +227,10 @@ SELECT infrastructure_id, tech_stack, runtime_version, operational_status FROM d
 =============================================================================
 [SYS_ALERT] BROADCASTING TERMINATION HANDSHAKE MESSAGE:
 "LAKSHYA/OS runs on infinite technical curiosity, continuous late-night compilation 
- iterations, and a systemic obsession with understanding low-level abstractions."
+ iterations, and a systemic obsession with understanding software abstractions."
 
-CURRENT DIRECTIVE  :: Build architectures that outlast the current runtime cycle.
-LONG-TERM TARGET   :: Master deep systems infrastructure completely.
+CURRENT DIRECTIVE  :: Learn the primitives completely. Build cool side projects.
+LONG-TERM TARGET   :: Master deep systems infrastructure and intelligence models completely.
 
 Handshake acknowledged. Terminating secure interface view...
 Come back later. The system state changes constantly.
