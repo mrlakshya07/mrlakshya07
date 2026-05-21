@@ -202,20 +202,24 @@ SELECT infrastructure_id, processing_routine, operational_status FROM deployment
 
 ---
 
-### 📡 NETWORK ENDPOINTS // APIS & SESSIONS
+### 📡 NETWORK ENDPOINTS
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lakshyarathi1/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-040810?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=040810&color=040810" alt="Establish LinkedIn Session" />
-  </a>
-  &ensp;
-  <a href="https://x.com/mrlakshya_07" target="_blank">
-    <img src="https://img.shields.io/badge/X_TWITTER-040810?style=for-the-badge&logo=x&logoColor=C5D8E8&labelColor=040810&color=040810" alt="Open X Channel" />
-  </a>
-  &ensp;
-  <a href="https://instagram.com/mrlakshya_07" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-040810?style=for-the-badge&logo=instagram&logoColor=F43F5E&labelColor=040810&color=040810" alt="Connect Media Subroutine" />
-  </a>
+
+<a href="https://www.linkedin.com/in/lakshyarathi1/" target="_blank">
+<img src="https://cdn.simpleicons.org/linkedin/00E5FF" height="55" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://x.com/mrlakshya_07" target="_blank">
+<img src="https://cdn.simpleicons.org/x/FFFFFF" height="55" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/mrlakshya_07/" target="_blank">
+<img src="https://cdn.simpleicons.org/instagram/F43F5E" height="55" />
+</a>
+
 </div>
 
 ---
